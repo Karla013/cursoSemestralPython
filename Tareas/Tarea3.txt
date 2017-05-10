@@ -35,7 +35,7 @@ Número de números impares: 4
 
 
 7. Escriba un programa de Python que imprima cada elemento y su tipo correspondiente en la siguiente lista.
-Lista de ejemplo : datalist = [1452, 11.23, 1 + 2j, Verdadero, 'w3resource', (0, -1), [5, 12], {"clase": 'V', 'section': 'A'} ]
+Lista de ejemplo : datalist = [1452, 11.23, 1 + 2j, True, 'w3resource', (0, -1), [5, 12], {"clase": 'V', 'section': 'A'} ]
 
 
 8. Escriba un programa de Python que imprima todos los números de 0 a 6 excepto 3 y 6.
